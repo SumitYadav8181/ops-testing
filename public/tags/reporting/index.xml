@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reporting on AdOps Revenue Optimization</title>
+    <link>http://localhost:1313/tags/reporting/</link>
+    <description>Recent content in Reporting on AdOps Revenue Optimization</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reporting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prebid Analytics and Reporting</title>
+      <link>http://localhost:1313/posts/prebid-analytics/</link>
+      <pubDate>Thu, 14 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/prebid-analytics/</guid>
+      <description>&lt;p&gt;Deep dive into Prebid analytics setup and reporting strategies for better insights.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced Revenue Analytics</title>
+      <link>http://localhost:1313/posts/revenue-analytics/</link>
+      <pubDate>Sun, 10 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/revenue-analytics/</guid>
+      <description>&lt;p&gt;Comprehensive guide to setting up and analyzing revenue metrics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

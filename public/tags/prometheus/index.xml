@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prometheus on AdOps Revenue Optimization</title>
+    <link>http://localhost:1313/tags/prometheus/</link>
+    <description>Recent content in Prometheus on AdOps Revenue Optimization</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up Modern Infrastructure Monitoring</title>
+      <link>http://localhost:1313/posts/monitoring-infrastructure/</link>
+      <pubDate>Tue, 19 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/monitoring-infrastructure/</guid>
+      <description>&lt;p&gt;Modern infrastructure requires robust monitoring. Here&amp;rsquo;s how to set up a comprehensive monitoring stack:&lt;/p&gt;&#xA;&lt;h2 id=&#34;prometheus--grafana-stack&#34;&gt;Prometheus + Grafana Stack&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Metrics Collection&lt;/li&gt;&#xA;&lt;li&gt;Alert Management&lt;/li&gt;&#xA;&lt;li&gt;Visualization&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;key-metrics-to-monitor&#34;&gt;Key Metrics to Monitor&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CPU Usage&lt;/li&gt;&#xA;&lt;li&gt;Memory Utilization&lt;/li&gt;&#xA;&lt;li&gt;Disk I/O&lt;/li&gt;&#xA;&lt;li&gt;Network Traffic&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Remember to set up proper alerting thresholds and on-call rotations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

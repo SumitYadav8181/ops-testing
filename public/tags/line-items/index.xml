@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Line-Items on AdOps Revenue Optimization</title>
+    <link>http://localhost:1313/tags/line-items/</link>
+    <description>Recent content in Line-Items on AdOps Revenue Optimization</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/line-items/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GAM Line Item Strategy &amp; Best Practices</title>
+      <link>http://localhost:1313/posts/gam-line-item-strategy/</link>
+      <pubDate>Sat, 16 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gam-line-item-strategy/</guid>
+      <description>&lt;p&gt;Comprehensive guide to structuring Google Ad Manager line items for maximum revenue and efficiency.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

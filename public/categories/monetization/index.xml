@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monetization on AdOps Revenue Optimization</title>
+    <link>http://localhost:1313/categories/monetization/</link>
+    <description>Recent content in Monetization on AdOps Revenue Optimization</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/monetization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video Ad Monetization Strategies</title>
+      <link>http://localhost:1313/posts/video-monetization/</link>
+      <pubDate>Sat, 09 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/video-monetization/</guid>
+      <description>&lt;p&gt;Complete guide to implementing and optimizing video ad monetization.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

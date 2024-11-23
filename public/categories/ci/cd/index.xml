@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD on AdOps Revenue Optimization</title>
+    <link>http://localhost:1313/categories/ci/cd/</link>
+    <description>Recent content in CI/CD on AdOps Revenue Optimization</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Modern CI/CD Pipeline</title>
+      <link>http://localhost:1313/posts/ci-cd-pipeline/</link>
+      <pubDate>Mon, 18 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ci-cd-pipeline/</guid>
+      <description>&lt;p&gt;A well-designed CI/CD pipeline is crucial for modern software delivery. Let&amp;rsquo;s explore the key components:&lt;/p&gt;&#xA;&lt;h2 id=&#34;pipeline-stages&#34;&gt;Pipeline Stages&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Code Checkout&lt;/li&gt;&#xA;&lt;li&gt;Build&lt;/li&gt;&#xA;&lt;li&gt;Test&lt;/li&gt;&#xA;&lt;li&gt;Security Scan&lt;/li&gt;&#xA;&lt;li&gt;Deploy&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;best-practices&#34;&gt;Best Practices&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Keep pipelines fast&lt;/li&gt;&#xA;&lt;li&gt;Implement proper testing&lt;/li&gt;&#xA;&lt;li&gt;Use infrastructure as code&lt;/li&gt;&#xA;&lt;li&gt;Maintain security checks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Automation is key to reliable software delivery.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

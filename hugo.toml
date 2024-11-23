@@ -1,0 +1,57 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'AdOps Revenue Optimization'
+theme = 'mainroad'
+
+[Params]
+  description = "Programmatic Advertising & Revenue Optimization Insights"
+  copyright = "AdOps Team"
+  post_meta = ["author", "date", "categories"]
+  mainSections = ["posts"]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap"
+  summary_length = 25
+  truncate = true
+  readmore = true
+  toc = false
+  post_navigation = true
+  postSections = ["posts"]
+  listStyle = "list"
+  hideNoPostsWarning = true
+  authorbox = false
+  mathjax = false
+  summaryLength = 2
+  favicon = "favicon.svg"
+
+[Params.style.vars]
+  highlightColor = "#2ecc71"
+
+[Params.logo]
+  image = "images/logo.svg"
+  title = "AdOps Internal Blog"
+  subtitle = "Sample Content Only, Not for Educational Purposes"
+
+[Params.thumbnail]
+  visibility = ["list"]
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories"]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 3

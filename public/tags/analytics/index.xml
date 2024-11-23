@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on AdOps Revenue Optimization</title>
+    <link>http://localhost:1313/tags/analytics/</link>
+    <description>Recent content in Analytics on AdOps Revenue Optimization</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Yield Optimization Techniques</title>
+      <link>http://localhost:1313/posts/yield-optimization/</link>
+      <pubDate>Mon, 18 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/yield-optimization/</guid>
+      <description>&lt;p&gt;Advanced techniques for optimizing programmatic yield through dynamic floor pricing and demand stack management.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building an Effective AdTech Stack</title>
+      <link>http://localhost:1313/posts/adtech-stack/</link>
+      <pubDate>Sun, 17 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/adtech-stack/</guid>
+      <description>&lt;p&gt;Complete guide to building and optimizing your AdTech stack with GAM, Prebid, and essential analytics tools.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prebid Analytics and Reporting</title>
+      <link>http://localhost:1313/posts/prebid-analytics/</link>
+      <pubDate>Thu, 14 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/prebid-analytics/</guid>
+      <description>&lt;p&gt;Deep dive into Prebid analytics setup and reporting strategies for better insights.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced Revenue Analytics</title>
+      <link>http://localhost:1313/posts/revenue-analytics/</link>
+      <pubDate>Sun, 10 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/revenue-analytics/</guid>
+      <description>&lt;p&gt;Comprehensive guide to setting up and analyzing revenue metrics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
